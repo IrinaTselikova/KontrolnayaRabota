@@ -11,5 +11,5 @@
 7.	Возвращаем новый заполненный массив с длиной строк <=3.
 
 # **Блок-схема**
-![Блок-схема алгоритма](picture.png)
+![Блок-схема алгоритма](https://github.com/IrinaTselikova/KontrolnayaRabota/blob/921b0a8ed0b0579a3f22f6850f685f98dddcb5d2/picture.png)
 
